@@ -1,6 +1,6 @@
 # pwa-textEditor
-Just Another Text Editor. JATE
-a Progressive Web Application
+Just Another Text Editor. JATE<br>
+A Progressive Web Application
 # About
  A text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. It also features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application can also function offline.
 # Installation
